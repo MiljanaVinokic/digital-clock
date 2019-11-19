@@ -1,0 +1,31 @@
+body {
+	background: linear-gradient(to top right, #ffffff -17%, #000000 112%);
+}	
+
+#clock {
+	color: #fff;
+	font-size: 195px;
+	background-color: #000;
+	padding: 0.5em 0em;
+	width: 80%;
+	margin: 0px auto;
+	font-family: Helvetica, Arial;
+	text-align: center;
+}
+
+#banner {
+	color: #000000;
+	font-size: 50px;
+	text-align: center;
+	background-color:  #eaebfa;
+	padding: 0.5em 0em;
+	width: 80%;
+	margin: 10% auto 0%;
+	font-family: Helvetica;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+span {
+	margin-left: 370px;
+}
